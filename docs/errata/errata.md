@@ -1,4 +1,4 @@
-**Errata** (9 items)
+**Errata** (11 items)
 
 If you find any mistakes, then please [raise an issue in this repository](https://github.com/markjprice/cs12dotnet8/issues) or email me at markjprice (at) gmail.com.
 
@@ -9,8 +9,10 @@ If you find any mistakes, then please [raise an issue in this repository](https:
 - [Page 58 - Showing the compiler version](#page-58---showing-the-compiler-version)
 - [Page 87 - Comparing double and decimal types](#page-87---comparing-double-and-decimal-types)
 - [Page 95 - Displaying output to the user](#page-95---displaying-output-to-the-user)
+- [Page 124 - Exploring bitwise and binary shift operators](#page-124---exploring-bitwise-and-binary-shift-operators)
 - [Page 383 - Creating a console app to publish](#page-383---creating-a-console-app-to-publish)
 - [Page 386 - Publishing a self-contained app](#page-386---publishing-a-self-contained-app)
+- [Page 616 - Be careful with Count!](#page-616---be-careful-with-count)
 
 # Page 10 - Installing other extensions
 
@@ -91,6 +93,19 @@ Console.WriteLine("B");
 Console.WriteLine("C");
 ```
 
+# Page 124 - Exploring bitwise and binary shift operators
+
+> Thanks to [Vlad Alexandru Meici](https://github.com/vladmeici) for raising [this issue on January 19, 2024](https://github.com/markjprice/cs12dotnet8/issues/13).
+
+In Step 3, I refer to variables `a` and `b`, "In `Program.cs`, add statements to output the results of applying the left-shift operator to move
+the bits of the variable `a` by three columns, multiplying `a` by 8, and right-shifting the bits of the variable `b` by one column, ...". 
+
+I should have written `x` and `y`.
+
+In the last paragraph, I wrote, "The `3` result is because the 1 bits in `b` were shifted one column into the 2-and 1-bit columns."
+
+I should have written, "The `3` result is because the 1 bits in `y` were shifted one column into the 2-and 1-bit columns."
+
 # Page 383 - Creating a console app to publish
 
 > Thanks to `mdj._` in the book's Discord channel for raising this issue on December 18, 2023.
@@ -135,3 +150,25 @@ dotnet publish -c Release -r osx-arm64 --self-contained
 ```
 
 I have updated the **Command Lines** summary file to use the new valid RIDs: https://github.com/markjprice/cs12dotnet8/blob/main/docs/command-lines.md#page-386---publishing-a-self-contained-app
+
+# Page 616 - Be careful with Count!
+
+> Thanks to Clint Mayers who submitted this issue via email.
+
+I showed a code teaser by Amichai Mantinband, a software engineer at Microsoft, as shown in the following code:
+```cs
+IEnumerable<Task> tasks = Enumerable.Range(0, 2)
+  .Select(_ => Task.Run(() => Console.WriteLine("*")));
+
+await Task.WhenAll(tasks);
+Console.WriteLine($"{tasks.Count()} stars!");
+```
+
+But I mistakenly used `WriteLine` methods when they should have been `Write` methods, as shown in the following code:
+```cs
+IEnumerable<Task> tasks = Enumerable.Range(0, 2)
+  .Select(_ => Task.Run(() => Console.Write("*")));
+
+await Task.WhenAll(tasks);
+Console.Write($"{tasks.Count()} stars!");
+```
