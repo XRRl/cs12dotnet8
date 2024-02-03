@@ -1,0 +1,15 @@
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter08\WorkingWithNumbers\bin\Debug\net8.0\WorkingWithNumbers.exe
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter08\WorkingWithNumbers\bin\Debug\net8.0\WorkingWithNumbers.deps.json
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter08\WorkingWithNumbers\bin\Debug\net8.0\WorkingWithNumbers.runtimeconfig.json
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter08\WorkingWithNumbers\bin\Debug\net8.0\WorkingWithNumbers.dll
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter08\WorkingWithNumbers\bin\Debug\net8.0\WorkingWithNumbers.pdb
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter08\WorkingWithNumbers\obj\Debug\net8.0\WorkingWithNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter08\WorkingWithNumbers\obj\Debug\net8.0\WorkingWithNumbers.AssemblyInfoInputs.cache
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter08\WorkingWithNumbers\obj\Debug\net8.0\WorkingWithNumbers.AssemblyInfo.cs
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter08\WorkingWithNumbers\obj\Debug\net8.0\WorkingWithNumbers.csproj.CoreCompileInputs.cache
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter08\WorkingWithNumbers\obj\Debug\net8.0\WorkingWithNumbers.sourcelink.json
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter08\WorkingWithNumbers\obj\Debug\net8.0\WorkingWithNumbers.dll
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter08\WorkingWithNumbers\obj\Debug\net8.0\refint\WorkingWithNumbers.dll
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter08\WorkingWithNumbers\obj\Debug\net8.0\WorkingWithNumbers.pdb
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter08\WorkingWithNumbers\obj\Debug\net8.0\WorkingWithNumbers.genruntimeconfig.cache
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter08\WorkingWithNumbers\obj\Debug\net8.0\ref\WorkingWithNumbers.dll

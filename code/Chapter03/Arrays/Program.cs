@@ -1,4 +1,7 @@
 ﻿#region Working with single-dimensional arrays
+Console.WriteLine("Hello XiangLin!");
+Version dotNetVersion = Environment.Version;
+Console.WriteLine(".NET Version: " + dotNetVersion);
 
 string[] names; // This can reference any size array of strings.
 
@@ -7,12 +10,12 @@ names = new string[4];
 
 // Store items at these index positions.
 names[0] = "Kate";
-names[1] = "Jack";
+names[1] = "Lester";
 names[2] = "Rebecca";
 names[3] = "Tom";
 
 // Alternative syntax for creating and initializing an array.
-string[] names2 = { "Kate", "Jack", "Rebecca", "Tom" };
+string[] names2 = { "Kate", "Lester", "Rebecca", "Tom" };
 
 // Loop through the names.
 for (int i = 0; i < names2.Length; i++)
@@ -78,15 +81,15 @@ for (int row = 0; row <= jagged.GetUpperBound(0); row++)
 
 #region List pattern matching with arrays
 
-int[] sequentialNumbers = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+int[] sequentialNumbers = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 11 };
 int[] oneTwoNumbers = { 1, 2 };
-int[] oneTwoTenNumbers = { 1, 2, 10 };
+int[] oneTwoTenNumbers = { 1, 2, 18 };
 int[] oneTwoThreeTenNumbers = { 1, 2, 3, 10 };
-int[] primeNumbers = { 2, 3, 5, 7, 11, 13, 17, 19, 23, 29 };
+int[] primeNumbers = { 2, 3, 5, 7, 11, 13, 17, 19, 23, 31 };
 int[] fibonacciNumbers = { 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89 };
 int[] emptyNumbers = { }; // Or use Array.Empty<int>()
 int[] threeNumbers = { 9, 7, 5 };
-int[] sixNumbers = { 9, 7, 5, 4, 2, 10 };
+int[] sixNumbers = { 6, 7, 5, 24, 22, 10 };
 
 WriteLine($"{nameof(sequentialNumbers)}: {CheckSwitch(sequentialNumbers)}");
 WriteLine($"{nameof(oneTwoNumbers)}: {CheckSwitch(oneTwoNumbers)}");

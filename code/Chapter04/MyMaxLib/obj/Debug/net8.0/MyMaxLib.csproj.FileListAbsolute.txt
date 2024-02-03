@@ -1,0 +1,12 @@
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter04\MyMaxLib\bin\Debug\net8.0\MyMaxLib.deps.json
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter04\MyMaxLib\bin\Debug\net8.0\MyMaxLib.dll
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter04\MyMaxLib\bin\Debug\net8.0\MyMaxLib.pdb
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter04\MyMaxLib\obj\Debug\net8.0\MyMaxLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter04\MyMaxLib\obj\Debug\net8.0\MyMaxLib.AssemblyInfoInputs.cache
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter04\MyMaxLib\obj\Debug\net8.0\MyMaxLib.AssemblyInfo.cs
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter04\MyMaxLib\obj\Debug\net8.0\MyMaxLib.csproj.CoreCompileInputs.cache
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter04\MyMaxLib\obj\Debug\net8.0\MyMaxLib.sourcelink.json
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter04\MyMaxLib\obj\Debug\net8.0\MyMaxLib.dll
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter04\MyMaxLib\obj\Debug\net8.0\refint\MyMaxLib.dll
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter04\MyMaxLib\obj\Debug\net8.0\MyMaxLib.pdb
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter04\MyMaxLib\obj\Debug\net8.0\ref\MyMaxLib.dll

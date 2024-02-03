@@ -1,0 +1,11 @@
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter08\Ch08Ex03NumbersAsWordsLib\bin\Debug\netstandard2.0\Ch08Ex03NumbersAsWordsLib.deps.json
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter08\Ch08Ex03NumbersAsWordsLib\bin\Debug\netstandard2.0\Ch08Ex03NumbersAsWordsLib.dll
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter08\Ch08Ex03NumbersAsWordsLib\bin\Debug\netstandard2.0\Ch08Ex03NumbersAsWordsLib.pdb
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter08\Ch08Ex03NumbersAsWordsLib\obj\Debug\netstandard2.0\Ch08Ex03NumbersAsWordsLib.csproj.AssemblyReference.cache
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter08\Ch08Ex03NumbersAsWordsLib\obj\Debug\netstandard2.0\Ch08Ex03NumbersAsWordsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter08\Ch08Ex03NumbersAsWordsLib\obj\Debug\netstandard2.0\Ch08Ex03NumbersAsWordsLib.AssemblyInfoInputs.cache
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter08\Ch08Ex03NumbersAsWordsLib\obj\Debug\netstandard2.0\Ch08Ex03NumbersAsWordsLib.AssemblyInfo.cs
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter08\Ch08Ex03NumbersAsWordsLib\obj\Debug\netstandard2.0\Ch08Ex03NumbersAsWordsLib.csproj.CoreCompileInputs.cache
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter08\Ch08Ex03NumbersAsWordsLib\obj\Debug\netstandard2.0\Ch08Ex03NumbersAsWordsLib.sourcelink.json
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter08\Ch08Ex03NumbersAsWordsLib\obj\Debug\netstandard2.0\Ch08Ex03NumbersAsWordsLib.dll
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter08\Ch08Ex03NumbersAsWordsLib\obj\Debug\netstandard2.0\Ch08Ex03NumbersAsWordsLib.pdb

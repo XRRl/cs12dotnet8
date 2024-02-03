@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ch08Ex03NumbersAsWordsApp/1.0.0": {
+        "dependencies": {
+          "Ch08Ex03NumbersAsWordsLib": "1.0.0"
+        },
+        "runtime": {
+          "Ch08Ex03NumbersAsWordsApp.dll": {}
+        }
+      },
+      "Ch08Ex03NumbersAsWordsLib/1.0.0": {
+        "runtime": {
+          "Ch08Ex03NumbersAsWordsLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ch08Ex03NumbersAsWordsApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ch08Ex03NumbersAsWordsLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

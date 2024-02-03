@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MyMaxLib/1.0.0": {
+        "runtime": {
+          "MyMaxLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyMaxLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zG8SMXoTR5a1qg810056pzyJUxvOA4yPEdIJ0ANnGdF9dFwladelUHLiG/2VnLTpT+gzkv/yFESu/Tw8Wea3ww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\86139\\Repos\\cs12dotnet8\\code\\Chapter08\\Ch08Ex03NumbersAsWordsLib\\Ch08Ex03NumbersAsWordsLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\86139\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\86139\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

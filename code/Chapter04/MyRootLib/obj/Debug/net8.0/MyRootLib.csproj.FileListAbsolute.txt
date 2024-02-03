@@ -1,0 +1,12 @@
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter04\MyRootLib\bin\Debug\net8.0\MyRootLib.deps.json
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter04\MyRootLib\bin\Debug\net8.0\MyRootLib.dll
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter04\MyRootLib\bin\Debug\net8.0\MyRootLib.pdb
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter04\MyRootLib\obj\Debug\net8.0\MyRootLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter04\MyRootLib\obj\Debug\net8.0\MyRootLib.AssemblyInfoInputs.cache
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter04\MyRootLib\obj\Debug\net8.0\MyRootLib.AssemblyInfo.cs
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter04\MyRootLib\obj\Debug\net8.0\MyRootLib.csproj.CoreCompileInputs.cache
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter04\MyRootLib\obj\Debug\net8.0\MyRootLib.sourcelink.json
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter04\MyRootLib\obj\Debug\net8.0\MyRootLib.dll
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter04\MyRootLib\obj\Debug\net8.0\refint\MyRootLib.dll
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter04\MyRootLib\obj\Debug\net8.0\MyRootLib.pdb
+C:\Users\86139\Repos\cs12dotnet8\code\Chapter04\MyRootLib\obj\Debug\net8.0\ref\MyRootLib.dll
